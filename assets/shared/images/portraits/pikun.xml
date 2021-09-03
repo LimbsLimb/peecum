@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pikun.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cry0000" x="0" y="0" width="287" height="235"/>
+	<SubTexture name="default0000" x="287" y="0" width="287" height="235"/>
+	<SubTexture name="determined0000" x="574" y="0" width="287" height="235"/>
+	<SubTexture name="furious0000" x="0" y="235" width="287" height="235"/>
+	<SubTexture name="happy0000" x="287" y="235" width="287" height="235"/>
+	<SubTexture name="hit0000" x="574" y="235" width="338" height="242"/>
+	<SubTexture name="informative0000" x="0" y="477" width="287" height="235"/>
+	<SubTexture name="micgrab0000" x="287" y="477" width="287" height="235"/>
+	<SubTexture name="neutral0000" x="574" y="477" width="287" height="235"/>
+	<SubTexture name="oh0000" x="0" y="712" width="287" height="235"/>
+	<SubTexture name="reading0000" x="287" y="712" width="287" height="235"/>
+</TextureAtlas>
